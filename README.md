@@ -1,7 +1,7 @@
 # COVID-19 Tracker
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
-### [Live Site](https://suspicious-kare-572784.netlify.app/)
+### [Live Site](https://covid-19-tracker-br.netlify.app/)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial [Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)](https://www.youtube.com/watch?v=khJlrj3Y6Ls&t=4953s). 
